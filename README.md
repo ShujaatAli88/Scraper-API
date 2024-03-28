@@ -1,0 +1,1 @@
+This is a Projecrt that Focuses almost Completely How to manipulate Data like Using an API to Scrape a Website and Dumping that data into a Databse Model, After that Using Another API to fetch The  Stored Data in the Database, API for Pagination, API To Fetch only tghe data Against a SKU number that is unique to every Product.
